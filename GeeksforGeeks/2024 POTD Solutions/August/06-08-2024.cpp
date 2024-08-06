@@ -1,6 +1,6 @@
 /*
 Problem of the Day: Validate an IP Address
-POTD Link: https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1
+Problem Description: https://medium.com/@pradeepsooryavanshee1210/validate-an-ip-address-geeksforgeeks-solution-problem-of-the-day-ef32ce041338
 Asked in Zoho, Amazon, Microsoft and Qualcomm
 */
 
