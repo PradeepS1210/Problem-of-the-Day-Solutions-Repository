@@ -1,4 +1,5 @@
 /*
+Topic: Hashing, Priority Queue
 Problem of the Day: Counting Problem
 Problem Description: https://medium.com/@pradeepsooryavanshee1210/counting-problem-unstop-solution-268470cb1cf3
 */
